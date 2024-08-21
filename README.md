@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🌱 I’m currently learning
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## 🔭 I’m currently working on
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosuk1028&hide=stars,contribs)](https://github.com/woosuk1028/github-readme-stats)
