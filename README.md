@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosuk1028)](https://github.com/woosuk1028/github-readme-stats)
+
+⚡ Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=woosuk1028)](https://github.com/woosuk1028/github-readme-stats)
