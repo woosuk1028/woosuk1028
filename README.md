@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 I’m currently working on
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosuk1028)&hide=stars,contribs](https://github.com/woosuk1028/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosuk1028&hide=stars,contribs)](https://github.com/woosuk1028/github-readme-stats)
 
 ## ⚡ Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosuk1028&langs_count=10&layout=compact&theme=white)](https://github.com/woosuk1028/github-readme-stats)
