@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🔭 I’m currently working on
-<!--[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosuk1028&hide=stars,contribs)](https://github.com/woosuk1028/github-readme-stats)-->
+<!--## 🔭 I’m currently working on
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosuk1028&hide=stars,contribs)](https://github.com/woosuk1028/github-readme-stats)-->
 
 ## ⚡ Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosuk1028&langs_count=10&layout=compact&theme=white&hide=css,scss)](https://github.com/woosuk1028/github-readme-stats)
