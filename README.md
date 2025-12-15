@@ -32,5 +32,3 @@
 
 ## ⚡ Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosuk1028)](https://github.com/anuraghazra/github-readme-stats)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosuk1028&langs_count=10&layout=compact&theme=white&hide=css,scss)](https://github.com/woosuk1028/github-readme-stats)
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosuk1028)](https://github.com/anuraghazra/github-readme-stats)
